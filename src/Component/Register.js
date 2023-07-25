@@ -90,7 +90,7 @@ const Register = () => {
 
                             <div className="mb-3">
                                 <p className='d-flex justify-content-center text-light'>
-                                    Already have an account?<Link className=' ' style={{ textDecoration: 'none' }} to='/'>Login<GiClick /></Link>
+                                    Already have an account?<Link className=' ' style={{ textDecoration: 'none' }} to='/'>Login</Link>
                                 </p>
                                 {/* <p className='d-flex justify-content-center text-light'>
                                     for Admin?<Link className=' ' style={{ textDecoration: 'none' }} to='/AdminPage'>Create for Admin</Link>
