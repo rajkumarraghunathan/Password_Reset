@@ -55,7 +55,7 @@ const ForgotPassword = () => {
                             {/* ---------------------------------------------------------------------------------------------------------------------------------*/}
 
                             <div className='d-grid'>
-                                <button type="submit" className="btn submit-button" >Submit</button>
+                                <button type="submit" className="btn btn-success" >Submit</button>
                             </div>
 
                             {/* ---------------------------------------------------------------------------------------------------------------------------------*/}
